@@ -89,7 +89,7 @@ Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `
     * 10.15 [Beam Search](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Beam_Search.ipynb)
 
   * **Ch11 Attention Mechanism**
-    * 11.1 [Attention Mechanism](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Attention_Mechanism.ipynb)
+    * 11.1 [Attention Mechanism](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch11_Attention_Mechanism/Attention_Mechanism.ipynb)
     * 11.2 Sequence to Sequence with Attention Mechanism
     * 11.3 Transformer
 
@@ -104,6 +104,21 @@ Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `
     * 12.8 [RMSProp](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/RMSProp.ipynb)
     * 12.9 Adadelta
     * 12.10 Adam
+  * **Ch14 Computer Vision**
+    * 14.1 Image Augmentation
+    * 14.2 Fine Tuning
+    * 14.3 [Object Detection and Bounding Boxes](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Object_Detection_and_Bounding_Boxes.ipynb)
+    * 14.4 [Anchor Boxes](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Anchor_Boxes.ipynb)
+    * 14.5 [Multiscale Object Detection](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Multiscale_Object_Detection.ipynb)
+    * 14.6 [Object Detection Data Set (Pikachu)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Object_Detection_Data_Set.ipynb)
+    * 14.7 [Single Shot Multibox Detection (SSD)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Single_Shot_Multibox_Detection.ipynb)
+    * 14.8 Region-based CNNs (R-CNNs)
+    * 14.9 Semantic Segmentation and Data Sets
+    * 14.10 Transposed Convolution
+    * 14.11 Fully Convolutional Networks (FCN)
+    * 14.12 [Neural Style Transfer](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Neural_Style_Transfer.ipynb)
+    * 14.13 Image Classification (CIFAR-10) on Kaggle
+    * 14.14 Dog Breed Identification (ImageNet Dogs) on Kaggle
 
 ## Contributing
 
